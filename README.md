@@ -1,4 +1,4 @@
-# EEffects of Behavioral Treatment on EOT Smoking Abstinence
+# Effects of Behavioral Treatment on EOT Smoking Abstinence
 
 ### Background
 The goal of this project is to use data from a randomized trial to examine baseline variables as potential moderators of the effects of behavioral treatment on end-of-treatment (EOT) abstinence. Additionally, we will evaluate baseline variables as predictors of abstinence, controlling for both behavioral treatment and pharmacotherapy.
